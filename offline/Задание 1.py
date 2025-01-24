@@ -11,7 +11,7 @@ if str == str[::-1]:
 else:
     print(f'"{string}" не является палиндромом')
 
-string = "А роза упала на лапу Азор"
+string = ("А роза упала на лапу Азор")
 str = ''
 for i in string:
     if i == ' ':
